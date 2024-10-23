@@ -14,7 +14,8 @@
 ## 서비스소개
 about.md 추가<br>
 buy.md 추가<br>
-footer.md 추가
+footer.md 추가<br>
+sidebar. md 추가<br>
 
 ### 네비게이션 추가
 - navigation.md
