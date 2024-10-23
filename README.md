@@ -12,10 +12,10 @@
 장바구니추가함
 
 ## 서비스소개
-about.md 추가
-buy.md 추가
+about.md 추가<br>
+buy.md 추가<br>
+footer.md 추가
 
 ### 네비게이션 추가
 - navigation.md
 - 로그인 로그아웃
-
